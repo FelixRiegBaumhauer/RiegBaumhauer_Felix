@@ -1,5 +1,10 @@
 import random
 
+#Author: Felix Rieg-Baumhauer
+#9/15/16
+#randClasss() finds a random one of three classes
+#studenter( section ) takes a section and procures a student
+
 CLASSES =  {
     4: [ 'Ayman', 'Shaeq', 'Patrick', 'Yvonne', 'Wilson',
          'Brian', 'Farhan', 'Janet', 'Harry', 'Kevin',
